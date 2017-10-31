@@ -1,0 +1,4 @@
+Hola este es uno de los 
+primeros archivos que hago 
+desde vim y le hago push a 
+github desde git
